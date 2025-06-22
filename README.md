@@ -64,13 +64,6 @@ targets: [
 ]
 ```
 
-### Command Line
-
-```bash
-swift package init --type executable
-swift package add https://github.com/edgeengineer/gpio.git
-```
-
 ## Usage
 
 ### Basic GPIO Control
